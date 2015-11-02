@@ -16,9 +16,9 @@
 
 <p>Baskerville was responsible for numerous innovations in printing, paper and ink production. He developed a technique which produced a smoother whiter paper which showcased his strong black type. He also pioneered a completely new style of typography, adding wide margins and generous leading to improve legibility.</p>
 
-<p> <blockquote>“Having been an early admirer of the beauty of letters, I became insensibly desirous of contributing to the perfection of them. I formed to myself ideas of greater accuracy than had yet appeared, and had endeavoured to produce a set of types according to what I conceived to be their true proportion.”</blockquote> </p>
+<p><blockquote>“Having been an early admirer of the beauty of letters, I became insensibly desirous of contributing to the perfection of them. I formed to myself ideas of greater accuracy than had yet appeared, and had endeavoured to produce a set of types according to what I conceived to be their true proportion.”</blockquote></p>
 
-<p> <cite>—John Baskerville, preface to Milton, 1758 (Anatomy of a Typeface)</cite> </p>
+<p><cite>—John Baskerville, preface to Milton, 1758 (Anatomy of a Typeface)</cite></p>
 </section>
 
 <section>
