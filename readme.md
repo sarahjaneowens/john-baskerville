@@ -1,5 +1,4 @@
-John Baskerville Project
-========================
+<h1>John Baskerville Project<h1>
 
 Each week we'll build on this project as we take you through HTML and CSS. This excercise is part of the IxD Belfast module - IXD101.
 
