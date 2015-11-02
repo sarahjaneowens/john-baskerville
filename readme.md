@@ -1,14 +1,13 @@
 <html>
 <head>
        <meta charset="utf-8"/>
-       <title> John Baskerville</title>
+       <title><h1>John Baskerville</title></h>
 </head>
 
 <body>
 <article>
 <header>
 
-<h1>John Baskerville</h1>
 
 <h2>Letter Founder & Master Printer</h2>
 
