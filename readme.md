@@ -1,9 +1,3 @@
-<html>
-<head>
-       <meta charset="utf-8"/>
-       <title>John Baskerville</title>
-</head>
-
 <body>
 <article>
      <header>
