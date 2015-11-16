@@ -16,3 +16,5 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 + [Version 2](https://sarahjaneowens.github.io/john-baskerville/version-2.html) - Adding lists.
 
 + [Version 3](https://sarahjaneowens.github.io/john-baskerville/version-3.html) - Adding links and anchors. 
+
++ [Version 4](https://sarahjaneowens.github.io/john-baskerville/version-4.html) - Adding images.
