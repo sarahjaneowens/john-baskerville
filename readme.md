@@ -19,4 +19,4 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 
 ##16th November 2015
 
-+ [Version 4](https://sarahjaneowens.github.io/john-baskerville/version-4.html) - Adding images.
++ [Version 4](https://sarahjaneowens.github.io/john-baskerville/version-4.html) - Adding images and tables.
