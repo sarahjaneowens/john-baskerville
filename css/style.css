@@ -32,3 +32,93 @@ body{
     font-size: 1.25em;
     line-height: 1.9em;
     padding: 4em 0 4em 0}
+
+
+/* -------------- LINKs -------------------- */
+
+a {
+    color: #c06;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+
+}
+
+/*----------------- TYPOGRAPHY ---------------*/
+    
+    h1, h2, h3 {
+        font-weight: normal;
+        text-align: center;
+        margin: 10px 0 10px 0;
+    }
+        
+    h1 {
+        font-size: ;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        margin-top: 40px;
+    }
+    
+    header h2 {
+        font-style: italic;
+        margin: -.5em 0 1em 0;
+        font-size: 1.75em;
+        padding-bottom: 2em;}
+
+    .intro {
+        font-size: 1.25em;
+        line-height: 1.9em;
+      }
+    
+.anchor {text-transform: uppercase;
+font-size: .75em;}
+
+
+blockquote {}
+    
+cite {}  
+       
+/*----------------- SPECIFIC TYPOGRAPHIC STYLING ------------------*/
+
+   .intro {
+        font-size: ;
+    }
+        
+    .openingtext {
+        text-transform:uppercase;
+    }
+
+/*--------------- LINKS --------------*/
+       
+
+    a {
+        color: red;
+        text-decoration: none;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+        
+    a:hover {
+        text-decoration: underline;
+        color: navy;
+    }
+
+/*--------------- NAV ---------------*/
+    
+    nav {
+        border-top: 1px solid #ccc;
+        border-bottom: 1px solid #ccc;
+    }    
+        
+    nav ul {
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+       
+    }
+    
+    nav ul li {
+        display: inline;
+        margin: 20px;
+    }
