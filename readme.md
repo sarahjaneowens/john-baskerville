@@ -20,3 +20,7 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 ##16th November 2015
 
 + [Version 4](https://sarahjaneowens.github.io/john-baskerville/version-4.html) - Added images and changed nested list to table.
+
+23rd November 2015
+
++ [Version 5](https://sarahjaneowens.github.io/john-baskerville/version-4.html) - Adding first set of CSS rules
