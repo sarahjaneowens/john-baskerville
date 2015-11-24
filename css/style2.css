@@ -70,12 +70,15 @@ h1, h2, h3
     margin-bottom: 35px;
     line-height: 1.2em;
 }
+   
+
 .version1 h2 
 {
     font-size: 1.998em;
     font-style: italic;
-    line-height: 1.0em;
+    line-height: 1.6em;
 }
+    
 
 .version1 h3
 {
@@ -86,7 +89,7 @@ h1, h2, h3
 
 .version1 .intro
 {
-    font-size: 1.212em;
+    font-size: 1.414em;
     margin: 2.5em 0;
     line-height: 1.6em;
 }
@@ -138,9 +141,9 @@ h1, h2, h3
 
 .version2 .intro
 {
+     font-size: 1.414em;
     margin: 2.5em 0;
-    font-size: 1.212em;
-    line-height: 1.4em;
+    line-height: 1.6em;
 }
 
 .version2 blockquote
@@ -184,9 +187,9 @@ h1, h2, h3
 
 .version3 .intro
 {
-   margin: 2.5em 0;
     font-size: 1.414em;
-    line-height: 1.4em;
+    margin: 2.5em 0;
+    line-height: 1.6em;
 }
 
    .version3 .blockquote
