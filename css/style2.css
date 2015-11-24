@@ -98,7 +98,7 @@ h1, h2, h3
     font-style: italic;
     font-size: 1.414em;
     line-height: 1.6em;
-    text-indent: -0.39em
+    text-indent: -0.39em;
 }
 
 .version1 cite
@@ -133,7 +133,7 @@ h1, h2, h3
 
 .version2 p
 {
-    margin: 1.5em 0;
+    margin: 1em 0;
 }
 
 .version2 .intro
@@ -145,16 +145,12 @@ h1, h2, h3
 
 .version2 blockquote
 {
-    margin: 2.5em 0;
+     margin: 2.5em 0;
     color:darkgrey;
-    text-indent: -0.4em;
-    font-size: 1.212em;
-    line-height: 1.5em;
-}
-
-.version2 blockquote p
-{
-    margin-bottom: 1em;
+    font-style: italic;
+    font-size: 1.414em;
+    line-height: 1.6em;
+    text-indent: -0.39em
 }   
 
 .version2 cite
@@ -189,18 +185,18 @@ h1, h2, h3
 .version3 .intro
 {
    margin: 2.5em 0;
-    font-size: 1.212em;
+    font-size: 1.414em;
     line-height: 1.4em;
 }
 
-   .version1 blockquote
+   .version3 .blockquote
 {
-    margin: 2.5em 0;
+     margin: 2.5em 0;
     color:darkgrey;
     font-style: italic;
     font-size: 1.414em;
     line-height: 1.6em;
-    text-indent: -0.39em
+    text-indent: -0.39em;
 }
 
 .version3 cite
