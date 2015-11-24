@@ -24,3 +24,5 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 ##23rd November 2015
 
 + [Version 5](https://sarahjaneowens.github.io/john-baskerville/version-5.html) - Adding first set of CSS rules
+
++ [Version 6](https://sarahjaneowens.github.io/john-baskerville/version-5.html) - CSS Markup.
