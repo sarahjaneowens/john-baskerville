@@ -25,4 +25,4 @@ Each week we'll build on this project as we take you through HTML and CSS. This 
 
 + [Version 5](https://sarahjaneowens.github.io/john-baskerville/version-5.html) - Adding first set of CSS rules
 
-+ [Version 6](https://sarahjaneowens.github.io/john-baskerville/version-5.html) - CSS Markup.
++ [Version 6](https://sarahjaneowens.github.io/john-baskerville/version-6.html) - CSS Markup.
