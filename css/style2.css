@@ -111,9 +111,9 @@ h1, h2, h3
 .version2 h1
 
 {
-    font-size: 3.998em;
-    margin-top: 20px;
-    margin-bottom:40px;
+   font-size: 3.998em;
+    margin-top: 25px;
+    margin-bottom: 35px;
     line-height: 1.2em;
 }
 
@@ -133,7 +133,7 @@ h1, h2, h3
 
 .version2 p
 {
-    margin: 0;
+    margin: 1.5em 0;
 }
 
 .version2 .intro
@@ -146,7 +146,7 @@ h1, h2, h3
 .version2 blockquote
 {
     margin: 2.5em 0;
-    color: #888;
+    color:darkgrey;
     text-indent: -0.4em;
     font-size: 1.212em;
     line-height: 1.5em;
@@ -174,7 +174,7 @@ h1, h2, h3
 }
 .version3 h2 
 {
-    font-size: 1.999em;
+    font-size: 1.998em;
     font-style: italic;
     line-height: 1.0em;
 }
