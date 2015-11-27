@@ -67,7 +67,7 @@ h1, h2, h3
 {
     font-size: 3.998em;
     margin-top: 25px;
-    margin-bottom: 35px;
+    margin-bottom: 0px;
     line-height: 1.2em;
 }
    
@@ -76,7 +76,9 @@ h1, h2, h3
 {
     font-size: 1.998em;
     font-style: italic;
-    line-height: 1.6em;
+    line-height: 1em;
+    margin-top: 0px;
+    margin-left: 20px;
 }
     
 
@@ -115,8 +117,8 @@ h1, h2, h3
 
 {
    font-size: 3.998em;
-    margin-top: 25px;
-    margin-bottom: 35px;
+     margin-top: 25px;
+    margin-bottom: 0px;
     line-height: 1.2em;
 }
 
@@ -124,7 +126,9 @@ h1, h2, h3
 {
     font-size: 1.998em;
     font-style: italic;
-    line-height: 1.0em;
+    line-height: 1em;
+    margin-top: 0px;
+    margin-left: 20px;
 }
 
 .version2 h3
@@ -166,16 +170,18 @@ h1, h2, h3
 
 .version3 h1 
 {
-    font-size: 3.998em;
-    margin-top: 25px;
-    margin-bottom: 35px;
+     font-size: 3.998em;
+     margin-top: 25px;
+    margin-bottom: 0px;
     line-height: 1.2em;
 }
 .version3 h2 
 {
     font-size: 1.998em;
     font-style: italic;
-    line-height: 1.0em;
+    line-height: 1em;
+    margin-top: 0px;
+    margin-left: 20px;
 }
 
 .version3 h3
