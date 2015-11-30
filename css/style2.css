@@ -77,8 +77,8 @@ h1, h2, h3
     font-size: 1.998em;
     font-style: italic;
     line-height: 1em;
-    margin-top: 0px;
-    margin-left: 20px;
+    margin-top: 3px;
+    margin-left: 0px;
 }
     
 
@@ -91,7 +91,7 @@ h1, h2, h3
 
 .version1 .intro
 {
-    font-size: 1.313em;
+    font-size: 1.212em;
     margin: 2.5em 0;
     line-height: 1.6em;
 }
@@ -101,7 +101,7 @@ h1, h2, h3
     margin: 2.5em 0;
     color:darkgrey;
     font-style: italic;
-    font-size: 1.414em;
+    font-size: 1.313em;
     line-height: 1.6em;
     text-indent: -0.39em;
 }
@@ -127,8 +127,8 @@ h1, h2, h3
     font-size: 1.998em;
     font-style: italic;
     line-height: 1em;
-    margin-top: 0px;
-    margin-left: 20px;
+    margin-top: 3px;
+    margin-left: 0px;
 }
 
 .version2 h3
@@ -145,7 +145,7 @@ h1, h2, h3
 
 .version2 .intro
 {
-     font-size: 1.313em;
+     font-size: 1.212em;
     margin: 2.5em 0;
     line-height: 1.6em;
 }
@@ -155,7 +155,7 @@ h1, h2, h3
      margin: 2.5em 0;
     color:darkgrey;
     font-style: italic;
-    font-size: 1.414em;
+    font-size: 1.313em;
     line-height: 1.6em;
     text-indent: -0.39em
 }   
@@ -180,8 +180,8 @@ h1, h2, h3
     font-size: 1.998em;
     font-style: italic;
     line-height: 1em;
-    margin-top: 0px;
-    margin-left: 20px;
+    margin-top: 3px;
+    margin-left: 0px;
 }
 
 .version3 h3
@@ -193,7 +193,7 @@ h1, h2, h3
 
 .version3 .intro
 {
-    font-size: 1.313em;
+    font-size: 1.212em;
     margin: 2.5em 0;
     line-height: 1.6em;
 }
@@ -203,7 +203,7 @@ h1, h2, h3
      margin: 2.5em 0;
     color:darkgrey;
     font-style: italic;
-    font-size: 1.414em;
+    font-size: 1.313em;
     line-height: 1.6em;
     text-indent: -0.39em;
 }
